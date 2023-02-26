@@ -1,0 +1,2 @@
+# alistirmaOdevi
+www.patika.dev
